@@ -1,0 +1,51 @@
+.navbar{
+    background-color:bisque;
+    height: 10vh;
+}
+
+.navbar .nav-link{
+    color:rgb(145, 104, 51);
+    text-transform: uppercase;
+    font-weight: 900;
+}
+.navbar .nav-link{
+    color:rgb(41, 39, 36);
+}
+.btn{
+    padding: 12px 30px;
+    font-weight: 900;
+    font-size: 18px;
+}
+
+.btn-TOTI{
+    background-color: white;
+    border: 2px solid #000;
+    border-radius: 60px;
+    transition: all ease-in 0.5s;
+}
+
+.btn-TOTI:hover{
+    color: #FFF;
+    border: 2px solid #FFF;
+
+}
+.pic{
+    border-radius: 100%;
+    box-shadow: #FFF;
+    width: 90px;
+}
+.banner{
+    background:linear-gradient(90deg, rgba(0,0,0,0.8603816526610644) 0%, rgba(96,88,203,0.379)53%),url('keko.jpg');
+    height: 90vh;
+    background-size: cover;
+}
+h1{
+    font-size: 45px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+.banner p{
+    color: #FFF;
+    font-size: 20px;
+}
